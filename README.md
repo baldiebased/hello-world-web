@@ -2,7 +2,7 @@
 prosty projekt webowy wyświetlający stronę z napisem "hello, world!"
 
 
-## ⚙️ instalacja
+## instalacja
 
 1. upewnij się, że masz zainstalowaną przeglądarkę internetową (np. Chrome, Firefox).
 2. *(opcjonalnie)* zainstaluj prosty serwer (np. Python), jeśli chcesz uruchomić lokalny serwer:
